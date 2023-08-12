@@ -1,6 +1,6 @@
 This project is used to emulate all functionalities provided by File Systems.
 1)Platform Required:-
-  Windows NT platform OR Linux Distributions
+  Windows NT platform OR Linux Distributions.
 2)Architectural Required:-
   Intel 32 bit Interface
 3)SDK used:-
